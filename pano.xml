@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" hassounds="0" start="node3" appversion="7.1.9">
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-116.749" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="-116.749" description="" copyright="" nodeid="node3" comment="" tags="Italinea" latitude="-29.68459356" streetviewlink="https://www.google.com/maps/@-29.6845936,-51.4617335,3a,75y,243.25h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz7i4tpmfvK5UACfT3!2e10" datetime="02/04/2025 08:36" longitude="-51.46173346" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="8.48657" description="" url="{node4}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-26.5313"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="129.035" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="-115.238"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="129.035" description="" copyright="" nodeid="node4" comment="" tags="Italinea" latitude="-29.68459385" streetviewlink="https://www.google.com/maps/@-29.6845938,-51.4618213,3a,75y,244.27h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz7i4tpmfvK5YACJvI!2e10" datetime="02/04/2025 08:36" longitude="-51.46182131" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" tilt="0" distance="8.48657" description="" url="{node3}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="39.2527"/>
+      <hotspot id="Point03" tilt="0" distance="5.4475" description="" url="{node5}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-24.8521"/>
+      <hotspot id="Point05" tilt="0" distance="7.60963" description="" url="{node7}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="247.788"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="83.7128" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="83.7128" description="" copyright="" nodeid="node5" comment="" tags="Italinea" latitude="-29.68463784" streetviewlink="https://www.google.com/maps/@-29.6846378,-51.4617965,3a,75y,83.71h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWZhkhEGfvK5YACy1c!2e10" datetime="02/04/2025 08:36" longitude="-51.46179649" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="5.4475" description="" url="{node4}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="109.826"/>
+      <hotspot id="Point02" tilt="0" distance="4.98175" description="" url="{node6}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="167.742"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="126.476" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="126.476" description="" copyright="" nodeid="node6" comment="" tags="Italinea" latitude="-29.68463318" streetviewlink="https://www.google.com/maps/@-29.6846332,-51.4618478,3a,75y,126.48h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWZhkhEGfvK54ACcgc!2e10" datetime="02/04/2025 08:36" longitude="-51.46184778" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" tilt="0" distance="4.98175" description="" url="{node5}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="30.5057"/>
+      <hotspot id="Point03" tilt="0" distance="4.17557" description="" url="{node7}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="206.648"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-224.984" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="-224.984" description="" copyright="" nodeid="node7" comment="" tags="Italinea" latitude="-29.68462677" streetviewlink="https://www.google.com/maps/@-29.6846268,-51.4618904,3a,75y,135.02h,90t/data=!3m4!1e1!3m2!1sCIABIhADydER5C1nfmfvK6AAAo5w!2e10" datetime="02/04/2025 08:36" longitude="-51.46189037" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="7.60963" description="" url="{node4}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-286.231"/>
+      <hotspot id="Point02" tilt="0" distance="4.17557" description="" url="{node6}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-324.812"/>
+      <hotspot id="Point03" tilt="0" distance="3.44975" description="" url="{node8}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-105.775"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="175.917" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="175.917" description="" copyright="" nodeid="node8" comment="" tags="Italinea" latitude="-29.68464191" streetviewlink="https://www.google.com/maps/@-29.6846419,-51.4619215,3a,75y,175.92h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWZhkhEGfvK6QABTLS!2e10" datetime="02/04/2025 08:36" longitude="-51.46192154" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="3.44975" description="" url="{node7}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="115.126"/>
+      <hotspot id="Point02" tilt="0" distance="3.12972" description="" url="{node9}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="22.9996"/>
+      <hotspot id="Point03" tilt="0" distance="5.54093" description="" url="{node10}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="278.411"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="4.81763" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="4.81763" description="" copyright="" nodeid="node9" comment="" tags="Italinea" latitude="-29.68466697" streetviewlink="https://www.google.com/maps/@-29.6846646,-51.4619464,3a,75y,7.4h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWZhkhEGfvK7EAAZSZ!2e10" datetime="02/04/2025 08:36" longitude="-51.46190679" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="3.12972" description="" url="{node8}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="31.9003"/>
+      <hotspot id="Point02" tilt="0" distance="7.01663" description="" url="{node10}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="81.7383"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="37.3099" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="37.3099" description="" copyright="" nodeid="node10" comment="" tags="Italinea" latitude="-29.68465269" streetviewlink="https://www.google.com/maps/@-29.6846527,-51.4619775,3a,75y,37.31h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz7i4tpmfvK7gADZwQ!2e10" datetime="02/04/2025 08:36" longitude="-51.46197754" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" tilt="0" distance="3.45027" description="" url="{node11}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="166.985"/>
+      <hotspot id="Point01" tilt="0" distance="5.54093" description="" url="{node8}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-40.1964"/>
+      <hotspot id="Point03" tilt="0" distance="7.01663" description="" url="{node9}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-65.7695"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="74.9734" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="74.9734" description="" copyright="" nodeid="node11" comment="" tags="Italinea" latitude="-29.68467250" streetviewlink="https://www.google.com/maps/@-29.6846725,-51.462005,3a,75y,74.97h,90t/data=!3m4!1e1!3m2!1sCIABIhADydER5C1nfmfvK9EAANNd!2e10" datetime="02/04/2025 08:36" longitude="-51.46200503" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="3.45027" description="" url="{node10}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="24.6485"/>
+      <hotspot id="Point02" tilt="0" distance="2.63178" description="" url="{node12}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="241.43"/>
+      <hotspot id="Point03" tilt="0" distance="1.93157" description="" url="{node13}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="199.718"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="141.518" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="141.518" description="" copyright="" nodeid="node12" comment="" tags="Italinea" latitude="-29.68469551" streetviewlink="https://www.google.com/maps/@-29.6846955,-51.4620114,3a,75y,141.52h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWZhkhEGfvK9YACKxU!2e10" datetime="02/04/2025 08:36" longitude="-51.46201141" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="2.63178" description="" url="{node11}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="127.974"/>
+      <hotspot id="Point02" tilt="0" distance="1.75147" description="" url="{node13}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="175.181"/>
+      <hotspot id="Point03" tilt="0" distance="3.39465" description="" url="{node16}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="269.149"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="64.8259" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="64.8259" description="" copyright="" nodeid="node13" comment="" tags="Italinea" latitude="-29.68468240" streetviewlink="https://www.google.com/maps/@-29.6846824,-51.4620215,3a,75y,64.83h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz7i4tpmfvK9YADB2A!2e10" datetime="02/04/2025 08:36" longitude="-51.46202146" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="1.93157" description="" url="{node11}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="9.57025"/>
+      <hotspot id="Point02" tilt="0" distance="1.75147" description="" url="{node12}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-81.511"/>
+      <hotspot id="Point03" tilt="0" distance="1.72036" description="" url="{node14}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="109.406"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="383.992" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="383.992" description="" copyright="" nodeid="node14" comment="" tags="Italinea" latitude="-29.68467138" streetviewlink="https://www.google.com/maps/@-29.6846714,-51.462034,3a,75y,23.99h,90t/data=!3m4!1e1!3m2!1sCIABIhADydER5C1nfmfvK9wAAVGZ!2e10" datetime="02/04/2025 08:36" longitude="-51.46203396" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="1.68321" description="" url="{node15}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="496.644"/>
+      <hotspot id="Point02" tilt="0" distance="1.72036" description="" url="{node13}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="248.572"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="137.195" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="137.195" description="" copyright="" nodeid="node15" comment="" tags="Italinea" latitude="-29.68467721" streetviewlink="https://www.google.com/maps/@-29.6846772,-51.46205,3a,75y,137.2h,90t/data=!3m4!1e1!3m2!1sCIABIhADydER5C1nfmfvK-AADqJ6!2e10" datetime="02/04/2025 08:36" longitude="-51.46205004" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="1.68321" description="" url="{node14}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="69.8473"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-231.494" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="-231.494" description="" copyright="" nodeid="node16" comment="" tags="2" latitude="-29.68471415" streetviewlink="https://www.google.com/maps/@-29.6847142,-51.4620392,3a,75y,128.51h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz7i4tpmfvK-AAANJj!2e10" datetime="02/04/2025 08:36" longitude="-51.46203924" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="3.39465" description="" url="{node12}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-283.863"/>
+      <hotspot id="Point02" tilt="0" distance="1.85648" description="" url="{node17}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-94.3453"/>
+      <hotspot id="Point03" tilt="0" distance="2.79554" description="" url="{node18}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-376.876"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-126.332" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="-126.332" description="" copyright="" nodeid="node17" comment="" tags="2" latitude="-29.68472639" streetviewlink="https://www.google.com/maps/@-29.6847264,-51.4620523,3a,75y,233.67h,90t/data=!3m4!1e1!3m2!1sCIABIhADydER5C1nfmfvMYEAB2uK!2e10" datetime="02/04/2025 08:37" longitude="-51.46205231" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="1.85648" description="" url="{node16}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="-169.183"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="86.7219" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="86.7219" description="" copyright="" nodeid="node18" comment="" tags="2" latitude="-29.68473484" streetviewlink="https://www.google.com/maps/@-29.6847348,-51.4620228,3a,75y,86.72h,90t/data=!3m4!1e1!3m2!1sCIABIhADydER5C1nfmfvMYEACqDn!2e10" datetime="02/04/2025 08:37" longitude="-51.46202280" customnodeid="" title="Studio D Italínea | Móveis Planejados em Montenegro" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="2.79554" description="" url="{node16}" skinid="ht_node" target="$fwd" title="Studio D Italínea | Móveis Planejados em Montenegro" pan="121.34"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" title="" description="" copyright="" comment="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
